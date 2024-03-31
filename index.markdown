@@ -16,4 +16,10 @@ Containing 32 unique categories of crime, the ground reality mirrors the challen
 
 We focus on a particular set of crimes and hope to shed light on the specific challenges they represent. Our objective is to provide a data-driven analysis that not only quantifies the city's struggles with crime but also offers insights into the ground reality among the population.
 
+The radial polar plot captures the 24-hour pattern of prostitution related crimes in San Fransisco. Each spoke on the wheel represents an hour of the day, and the length of each spoke indicates the number of incidents reported at that particular time. From that it is immediately clear that this category of crime peaks in the late night to early morning hours of dawn.
+
 <iframe src='sf-polar-plot.html' style="border-width: 0px" width="80%" height="400px"></iframe>
+
+From midnight to 5 AM, there is a noticeable surge in reported incidents and the nocturnal spikes align with the patterns of night-life acitivities - reflecting the increased vulnerability of night time workers. Alternatively, the plot shows a significant drop in reported incidents during daylight illustrating the cyclic nature of this illegal crime.
+
+<iframe src='sf-vehicle-theft-sundays.html' style="border-width: 0px" width="80%" height="400px"></iframe>
