@@ -14,6 +14,8 @@ The dataset at hand helps us understand this narrative, through police incident 
 
 Containing 32 unique categories of crime, the ground reality mirrors the challenges and societal shits that San Francisco has faced during the years. The high occurences of drug-related crimes along with incidents of larceny and burgulary shows us the disparity between wealth and poverty on the same blocks. Furthermore, instances of violent crime such as assault and robbery - punctuate the city's narrative with urgent calls and effective policing.
 
+<iframe src='sf-focus-crime-incidents.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
+
 We focus on a particular set of crimes and hope to shed light on the specific challenges they represent. Our objective is to provide a data-driven analysis that not only quantifies the city's struggles with crime but also offers insights into the ground reality among the population.
 
 The radial polar plot captures the 24-hour pattern of prostitution related crimes in San Francisco. Each spoke on the wheel represents an hour of the day, and the length of each spoke indicates the number of incidents reported at that particular time. From that it is immediately clear that this category of crime peaks in the late night to early morning hours of dawn.
@@ -29,5 +31,3 @@ Ingleside and it's neighbouring districts - Bayview and Mission, all have a dark
 <iframe src='sf-vehicle-theft-sundays.html' style="border-width: 0px; margin-left: 85px;" width="100%" height="500px"></iframe>
 
 This pattern in the data not only underscores the neighobouring communities to stay alert and vigilant but also indicates of a need for law and enforcement authorities to be more alert and present on certain days in certain districts.
-
-<iframe src='sf-focus-crime-incidents.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
