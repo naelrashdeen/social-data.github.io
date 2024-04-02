@@ -18,7 +18,7 @@ We focus on a particular set of crimes and hope to shed light on the specific ch
 
 The radial polar plot captures the 24-hour pattern of prostitution related crimes in San Francisco. Each spoke on the wheel represents an hour of the day, and the length of each spoke indicates the number of incidents reported at that particular time. From that it is immediately clear that this category of crime peaks in the late night to early morning hours of dawn.
 
-<iframe src='sf-polar-plot.html' style="border-width: 0px" width="80%" height="400px"></iframe>
+<iframe src='sf-polar-plot.html' style="border-width: 0px; margin-left: 85px;" width="80%" height="400px"></iframe>
 
 From midnight to 5 AM, there is a noticeable surge in reported incidents and the nocturnal spikes align with the patterns of night-life acitivities - reflecting the increased vulnerability of night time workers. Alternatively, the plot shows a significant drop in reported incidents during daylight illustrating the cyclic nature of this illegal crime.
 
@@ -26,8 +26,8 @@ Transitioning from the dark hours where incidences of prositution are most commo
 
 Ingleside and it's neighbouring districts - Bayview and Mission, all have a darker red color on the map showcasing them to become hotspots for vehicle theft on sundays.
 
-<iframe src='sf-vehicle-theft-sundays.html' style="border-width: 0px" width="100%" height="500px"></iframe>
+<iframe src='sf-vehicle-theft-sundays.html' style="border-width: 0px; margin-left: 85px;" width="100%" height="500px"></iframe>
 
 This pattern in the data not only underscores the neighobouring communities to stay alert and vigilant but also indicates of a need for law and enforcement authorities to be more alert and present on certain days in certain districts.
 
-<iframe src='sf-crime-category-counts.html' style="border-width: 0px" width="100%" height="400px"></iframe>
+<iframe src='sf-focus-crime-incidents.html' style="border-width: 0px;" width="100%" height="400px"></iframe>
